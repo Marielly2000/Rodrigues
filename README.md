@@ -1,10 +1,10 @@
-dcomp-abntex2
+DEAGRI-TCC
 =========================
 
 ## Informações Gerais
 Classe que adapta o pacote abntex2 para as normas do Departamento de Engenharia Agrícola e o  da Universidade Federal de Sergipe. O abntex2 (http://www.abntex.net.br/) é uma classe que implementa as normas da ABNT para os usuários LaTex.
 
-Tendo como base o material customizado pelo Departamento de Computação DPCOMP
+Tendo como base o material customizado pelo Departamento de Computação DPCOMP-UFS
 
 
 
@@ -68,6 +68,8 @@ Lista mínima de pacotes a serem instalados em distribuições Ubuntu/Mint linux
   * Por conta do pacote minted (http://tug.ctan.org/tex-archive/macros/latex/contrib/minted/minted.pdf), não esquecer de adicionar o comando `-shell-escape` à linha de compilação
 
 3. Online (recomendado)
-  * https://www.sharelatex.com/ ou https://www.overleaf.com/
+ https://www.overleaf.com/
   * Ambientes online com todos os pacotes latex existentes já prontos para uso, com a opção de compartilhamento de projeto entre várias pessoas
   * Para usar nosso template, basta importar a estrutura de pastas e compilar o texto
+  * 
+  *AGRADECIMENTOS AO DEPARTAMENTO DE COMPUTAÇÃO PELA CONTRUÇÃO DO ARQUIVO BASE
