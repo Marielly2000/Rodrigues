@@ -20,7 +20,7 @@ Sugerimos escrever documentos por cima do arquivo de modelo .tex fornecido, com 
 \documentclass[
 	% -- opções das classes --
     % (...)
-	]{dcomp-abntex2}
+	]{deagri-abntex2}
 ```
 
 Com relação ao pacote abntex2, foram modificadas as seguintes páginas:
